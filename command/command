@@ -1,0 +1,1 @@
+python Test_img.py --loadmodel pretrained_sceneflow.tar --leftimg /mydata/media/oem/8E1840A018408963/TRansPose/sequences/train/seq_C_01/cam_L/rgb/000001.png --rightimg /mydata/media/oem/8E1840A018408963/TRansPose/sequences/train/seq_C_01/cam_R/rgb/000001.png 
